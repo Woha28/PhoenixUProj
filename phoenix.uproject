@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D6CD33AA-48FB-A06F-36C7-98A13E3ACC37}",
+	"EngineAssociation": "{57A42649-42CF-20CF-436B-79B62D233398}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -101,9 +101,9 @@
 		}
 	],
 	"Plugins": [
-        {
+		{
 			"Name": "UnrealPSKPSA",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "BinkMedia",
